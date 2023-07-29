@@ -1,9 +1,9 @@
- Smart CoffeeMachine
+# Smart CoffeeMachine
 
-Overview:
+# Overview:
 The BangleWatch Brew project aims to modernize and enhance the functionality of an old coffee machine by integrating it with smart technology. By combining the power of an ESP32 microcontroller, Arduino IDE, Espruino IDE, and a Bangle.js smartwatch, we have successfully transformed the conventional coffee machine into a cutting-edge, Internet of Things (IoT) enabled brewer.
 
-Project Components:
+# Project Components:
 
 ESP32 Circuit Integration: We designed and built a custom circuit using the ESP32 microcontroller board. The ESP32 serves as the brain of the smart coffee machine, acting as an intermediary between the machine's existing circuit and the Bangle.js smartwatch.
 
@@ -11,7 +11,7 @@ Arduino Code for ESP32: In the Arduino IDE, we programmed the ESP32 with the nec
 
 Bangle.js Smartwatch App: Using Espruino IDE and JavaScript, we developed a user-friendly mobile application compatible with the Bangle.js smartwatch. The app establishes a Bluetooth connection with the ESP32, allowing users to remotely control the coffee machine through their wrist-worn device.
 
-Key Features:
+# Key Features:
 
 Wireless Control: With the Bangle.js app, users can conveniently control the coffee machine from a distance, eliminating the need to physically interact with the machine. This feature enables users to prepare their favorite brews remotely.
 
